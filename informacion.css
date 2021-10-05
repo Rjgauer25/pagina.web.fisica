@@ -1,0 +1,26 @@
+body{
+    background-image: url(img/75790.jpg);
+
+}
+
+h1{
+    color: white;
+    text-align: center;
+}
+
+h5{
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    list-style: none;
+}
+
+
+
+.contenido{
+    margin: 3px;
+}
+
+.caja{
+    display: table-cell;
+    padding: 0px;
+}
